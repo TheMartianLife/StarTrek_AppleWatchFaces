@@ -1,6 +1,6 @@
 # Star Trek Apple Watch Faces
 These images are for use with the Photos watch face of an Apple Watch. So far only the 42mm models are supported, more sizes and designs to come in the future or by request.
-(/Previews/Preview.png?raw=true)
+![Preview](/Previews/Preview.png?raw=true)	![Preview2](/Previews/Preview2.png?raw=true)	![Preview3](/Previews/Preview3.png?raw=true)
 
 ## How to use
 1. Send or save the image(s) to Photos
