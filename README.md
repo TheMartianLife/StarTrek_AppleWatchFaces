@@ -1,2 +1,11 @@
-# StarTrek_AppleWatchFaces
-These images are for use with the Photos watch face of a 45mm Apple Watch, some for top and some for bottom text--this should be intuitive based on blank space/readability. They are made at 10x resolution, if your watch is only displaying the top left corner then edit the picture to 10% size. More sizes and designs to come.
+# Star Trek Apple Watch Faces
+These images are for use with the Photos watch face of an Apple Watch. So far only the 42mm models are supported, more sizes and designs to come in the future or by request.
+
+
+## How to use
+1. Send or save the image(s) to Photos
+2. Open the Watch app on your phone and go to Face Gallery
+3. Select the Photos->Favourites face
+4. Under the photos subsection select Custom and then select the image(s) you saved
+5. Select the appropriate time position and complications for the design
+6. Add the face
