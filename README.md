@@ -1,7 +1,5 @@
-# Star Trek Apple Watch Faces
+![Promo](/Promo.png?raw=true)
 These images are for use with the Photos watch face of an Apple Watch. More designs to come in the future or by request.
-
-![Preview](/Previews/1.png?raw=true)	![Preview2](/Previews/2.png?raw=true)	![Preview3](/Previews/3.png?raw=true)	![Preview4](/Previews/4.png?raw=true)
 
 ## How to use
 1. Send or save the image(s) to Photos
@@ -11,4 +9,4 @@ These images are for use with the Photos watch face of an Apple Watch. More desi
 5. Select the appropriate time position and complications for the design
 6. Add the face
 
-*I do not own the UFP or Enterprise logos or any of the Star Trek designs used as inspiration. These images are being released under CC0.*
+*I do not own the UFP or Enterprise logos or any of the Star Trek designs used as inspiration, nor do I own the Apple Watch design. These images are being released under CC0.*
