@@ -9,4 +9,4 @@ These images are for use with the Photos watch face of an Apple Watch. More desi
 5. Select the appropriate time position and complications for the design
 6. Add the face
 
-*I do not own the UFP or Enterprise logos or any of the Star Trek designs used as inspiration, nor do I own the Apple Watch design. These images are being released under CC0.*
+*I do not own the UFP or Enterprise logos or any of the Star Trek designs used as inspiration, nor do I own the Apple Watch design. The images I have created are being released under CC0.*
